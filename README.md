@@ -12,7 +12,7 @@
 
 כל המחלקות ממומשות **ללא שימוש ב־STL**, תוך ניהול זיכרון ידני, לפי דרישות הקורס.
 
-## 📁 מבנה הקבצים
+## מבנה הקבצים
 | קובץ | תיאור |
 
 | `graph.hpp/cpp` | מחלקת הגרף, כולל פעולות בסיסיות (addEdge, removeEdge, print_graph) |
